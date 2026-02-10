@@ -7,7 +7,7 @@ body {
   font-family: "Verdana", sans-serif;
   line-height: 1.7;
   color: #1f2933;
-  background: #E6E6FA;
+  background: #778899;
 }
 
 .wrapper {
@@ -75,4 +75,5 @@ p {
   color: #6b7280;
   font-size: 0.95rem;
 }
+
 
